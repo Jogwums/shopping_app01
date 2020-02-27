@@ -1,0 +1,27 @@
+body{
+    width: 100%;
+    min-height: 100vh;
+    background-color: aquamarine;
+    border: 2px red double;
+}
+
+.spin{
+    text-align: center;
+    font-family: cursive,sans-serif;
+    text-decoration: underline;
+}
+
+h1{
+    text-align: center;
+    border: solid 2px black;
+        
+}
+#mi {
+    width: 100%;
+    min-height:50vh;
+    border: 2px red solid;
+    background-color: red;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}
